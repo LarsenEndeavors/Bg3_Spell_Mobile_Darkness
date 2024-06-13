@@ -1,0 +1,19 @@
+﻿<contentList>
+    <content contentuid="h12345678g1234g1234g1234g1234567890ab" version="1">Darkness surrounds the target, spreading to nearby creatures and objects.</content>
+    <content contentuid="habcdef0gabcdefgabcdefgabcdefgabcdef12345" version="1">Darkness Aura</content>
+    <content contentuid="h09876543g0987g0987g0987g0987654321bc" version="1">Darkness Effect</content>
+    <content contentuid="h1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s" version="1">Darkness</content>
+    <content contentuid="h12345678g1234g1234g1234g1234567890ab;1" version="1">A point you choose within range is shrouded in magical darkness. Creatures and objects within this radius are affected.</content>
+    <content contentuid="habcdef0gabcdefgabcdefgabcdefgabcdef12345;1" version="1">A darkness aura that affects nearby creatures and objects.</content>
+    <content contentuid="h09876543g0987g0987g0987g0987654321bc;1" version="1">Darkness effects that cause disadvantage on attack rolls and perception.</content>
+    <content contentuid="h1a2b3c4d5e6f7g8h9i0j1k2l3m4n5o6p7q8r9s;1" version="1">Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.</content>
+	<content contentuid="h0ea62574g0e90g491bg8054g78bf8c61ac45" version="1">
+        Magical darkness spreads from a point you choose within range to fill a 15-foot radius sphere for the duration. The darkness spreads around corners. A creature with darkvision can't see through this darkness, and nonmagical light can't illuminate it. If the point you choose is on an object you are holding or one that isn't being worn or carried, the darkness emanates from the object and moves with it. Completely covering the source of the darkness with an opaque object, such as a bowl or a helm, blocks the darkness.
+    </content>
+    <content contentuid="h64652503g229ag4f9ag819cg8d9411c66209" version="4">
+        Darkness
+    </content>
+    <content contentuid="6ff1780a-855a-414c-a8bf-811251537206" version="1">
+        Increases the radius of darkness and the spell duration.
+    </content>
+</contentList>
